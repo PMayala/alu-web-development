@@ -47,65 +47,61 @@
     justify-content: space-between;
 }
 
-/* Add the following CSS rules to styles.css */
 
-/* Apply styles to the body */
 body {
-    background-color: #caba6f; /* Set background color */
-    color: #1a1713; /* Set text color */
-    font-family: 'Arial', sans-serif; /* Set font family */
-    
+    background-color: #caba6f;
+    color: #1a1713; 
+    font-family: 'Arial', sans-serif; 
 }
 
-/* Apply styles to the header */
+
 header {
-    background-color: #f0deb7; /* Set background color for the header */
-    color: #fff; /* Set text color for the header */
+    background-color: #f0deb7; 
+    color: #fff; 
     border-radius: 5px;
 }
 
-/* Apply styles to the logo in the header */
-header .logo {
-    font-size: 24px; /* Set font size for the logo */
-    margin-right: 10px; /* Add some spacing to the right of the logo */
-}
 
-/* Apply styles to the main content area */
+header .logo {
+    font-size: 24px; 
+    margin-right: 10px; 
+
+
 main {
-    padding: 20px; /* Add padding to the main content */
+    padding: 20px;
     background-color: #caba6f;
     border-radius: 5px;
     border: #72d487;
 }
 
-/* Apply styles to the article */
+
 article {
-    background-color: #dee786; /* Set background color for the article */
-    border: 1px solid #3b0c0c; /* Add a border around the article */
-    border-radius: 10px; /* Add border radius for a rounded appearance */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
-    padding: 20px; /* Add padding to the article */
+    background-color: #dee786; 
+    border: 1px solid #3b0c0c; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px; 
 }
 
-/* Apply styles to the aside */
+
 aside {
-    background-color: #acda78; /* Set background color for the aside */
-    border: 1px solid #270505; /* Add a border around the aside */
-    border-radius: 10px; /* Add border radius for a rounded appearance */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
-    padding: 20px; /* Add padding to the aside */
+    background-color: #acda78;
+    border: 1px solid #270505; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
 }
 
-/* Apply styles to the footer */
+
 footer {
-    background-color: #f0deb7; /* Set background color for the footer */
-    color: #0f0404; /* Set text color for the footer */
-    padding: 10px 20px; /* Add padding to the footer */
-    text-align: center; /* Center align text in the footer */
+    background-color: #f0deb7; 
+    color: #0f0404; 
+    padding: 10px 20px; 
+    text-align: center; 
     border-radius: 5px;
 }
 
-/* ... Your existing CSS ... */
+
 
 
 
