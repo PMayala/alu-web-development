@@ -52,7 +52,6 @@ table {
 	border-spacing: 0;
 }
 
-
 /* Fonts and colors */
 
 body {
@@ -63,7 +62,9 @@ h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
 }
 article {
+	text-align: right;
 }
+
 header {
 	border-bottom: 1px solid rgb(221,221,221);
 	transition: border-bottom-color 1s ease;
@@ -98,6 +99,9 @@ a {
 
 article {
 	padding: 50px 15px;
+	display: flex;
+	flex-direction: column;
+	
 }
 article > *:first-child {
 	margin-top: 0;
@@ -110,11 +114,10 @@ header .right {
 	margin: 0 10px 15px;
 }
 
-
 /* Header */
 header {
-	padding: 20px 0;
-	height: 80px;
+	padding: 10px 0;
+	height: 30px;
 }
 header ul {
 	list-style: none;
@@ -136,9 +139,13 @@ header li.logo {
 }
 header a {
 	text-decoration: none;
+	padding: 150px;
 }
 
-
+.twitter-tweet{
+	max-width: 100%;
+	margin: 0;
+}
 /* Aside */
 
 aside p {
@@ -154,11 +161,14 @@ footer {
 	height: 80px;
 }
 
+header, footer {text-align: center;
+	margin-top: 10px;
+}
 
 /* Text styles and margins */
 
 p {
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 h1 {
 	font-size: 36px;
@@ -185,6 +195,9 @@ h5 {
 h6 {
 	font-weight: bold;
 	margin: 5px 0;
+}
+h1, h2, h3, p{
+	text-align: center;
 }
 
 @media (max-width: 800px) {
