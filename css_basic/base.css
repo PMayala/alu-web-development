@@ -66,7 +66,7 @@ article {
 }
 
 header {
-	border-bottom: 1px solid rgb(221,221,221);
+	border-bottom: 1px solid #f0cc8b;
 	transition: border-bottom-color 1s ease;
 }
 header a {
@@ -76,7 +76,7 @@ aside {
 	background: #FAFAFA;
 }
 aside p {
-	border: 1px solid #bbb;
+	border: 1px solid #e2d59d;
 	background: #ddd;
 	color: black;
 }
@@ -84,7 +84,7 @@ footer a {
 	color: rgba(0, 0, 0, 0.8);
 }
 a {
-	color: #F80002;
+	color: #880b0b;
 }
 
 
@@ -111,13 +111,13 @@ aside {
 }
 header .right {
 	float: right;
-	margin: 0 10px 15px;
+	margin: 0 20px 15px;
 }
 
 /* Header */
 header {
-	padding: 10px 0;
-	height: 30px;
+	padding: 30px 0;
+	height: 40px;
 }
 header ul {
 	list-style: none;
@@ -139,7 +139,7 @@ header li.logo {
 }
 header a {
 	text-decoration: none;
-	padding: 150px;
+	padding: 20px;
 }
 
 .twitter-tweet{
@@ -162,7 +162,7 @@ footer {
 }
 
 header, footer {text-align: center;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 /* Text styles and margins */
