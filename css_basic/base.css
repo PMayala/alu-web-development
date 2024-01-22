@@ -52,7 +52,6 @@ table {
 	border-spacing: 0;
 }
 
-
 /* Fonts and colors */
 
 body {
@@ -63,9 +62,11 @@ h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
 }
 article {
+	text-align: right;
 }
+
 header {
-	border-bottom: 1px solid rgb(221,221,221);
+	border-bottom: 1px solid #f0cc8b;
 	transition: border-bottom-color 1s ease;
 }
 header a {
@@ -75,15 +76,15 @@ aside {
 	background: #FAFAFA;
 }
 aside p {
-	border: 1px solid #bbb;
-	background: #ddd;
+	border: 1px solid #101102;
+	background: #bab2cf;
 	color: black;
 }
 footer a {
 	color: rgba(0, 0, 0, 0.8);
 }
 a {
-	color: #F80002;
+	color: #880b0b;
 }
 
 
@@ -98,6 +99,9 @@ a {
 
 article {
 	padding: 50px 15px;
+	display: flex;
+	flex-direction: column;
+	
 }
 article > *:first-child {
 	margin-top: 0;
@@ -107,14 +111,13 @@ aside {
 }
 header .right {
 	float: right;
-	margin: 0 10px 15px;
+	margin: 0 20px 15px;
 }
-
 
 /* Header */
 header {
-	padding: 20px 0;
-	height: 80px;
+	padding: 30px 0;
+	height: 40px;
 }
 header ul {
 	list-style: none;
@@ -136,9 +139,13 @@ header li.logo {
 }
 header a {
 	text-decoration: none;
+	padding: 20px;
 }
 
-
+.twitter-tweet{
+	max-width: 100%;
+	margin: 0;
+}
 /* Aside */
 
 aside p {
@@ -154,11 +161,14 @@ footer {
 	height: 80px;
 }
 
+header, footer {text-align: center;
+	margin-top: 20px;
+}
 
 /* Text styles and margins */
 
 p {
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 h1 {
 	font-size: 36px;
@@ -185,6 +195,9 @@ h5 {
 h6 {
 	font-weight: bold;
 	margin: 5px 0;
+}
+h1, h2, h3, p{
+	text-align: center;
 }
 
 @media (max-width: 800px) {
