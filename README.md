@@ -1,0 +1,2 @@
+# ALU FRONT-END WEB DEVELOPMENT
+This is a module aimed to equip me with the essential skills and knowledge to create visually appealing and interactive web pages. the tech stack includes HTML, CSS, and Javascript. 

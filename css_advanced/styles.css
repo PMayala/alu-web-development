@@ -1,0 +1,166 @@
+header{
+    position: absolute;
+    width: 1103.02px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+.logo{
+    position: absolute;
+    width: 167.02px;
+    height: 29.46px;
+    left: 0px;
+    top: 0px;
+}
+
+.menu{
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 869.02px;
+    top: 0px;
+}
+
+#Courses{
+    position: absolute;
+    height: 15px;
+    left: 0%;
+    right: 78.63%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Pricing{
+    position: absolute;
+    height: 15px;
+    left: 43.59%;
+    right: 37.18%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Login{
+    position: absolute;
+    height: 15px;
+    left: 85.47%;
+    right: 0%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.main_part{
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
+
+#getschooled{
+    position: absolute;
+    height: 151px;
+    left: 26.18%;
+    right: 26.32%;
+    top: calc(50% - 151px/2 - 251px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 151px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subget{
+    position: absolute;
+    height: 20px;
+    left: 41.18%;
+    right: 55.21%;
+    top: calc(50% - 20px/2 - 175.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Register{
+    position: absolute;
+    left: 44.38%;
+    right: 44.38%;
+    top: 38.33%;
+    bottom: 57.64%;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+    background: #C271FF;
+    border-radius: 22px;
+}
+#forfree{
+    
+    position: absolute;
+    height: 18px;
+    left: 12.35%;
+    right: 12.96%;
+    top: calc(50% - 18px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#frompros{
+    position: absolute;
+    height: 40px;
+    left: 41.94%;
+    right: 39.93%;
+    top: calc(50% - 40px/2 + 104.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #ffffff;
+}
+#learn{
+    position: absolute;
+    height: 40px;
+    left: 41.94%;
+    right: 39.93%;
+    top: calc(50% - 40px/2 + 104.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #C271FF;
+    
+}
+.pros{
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    left: 217px;
+    top: 758px;
+    }
