@@ -16,7 +16,7 @@
     height: 29.5px;
     width: 167px;
     position: relative;
-    object-fit: cover;
+    object-fit:contain;
     z-index: 3;
   }
   .courses,
@@ -165,6 +165,7 @@
     height: 150px;
     position: relative;
     object-fit: cover;
+    border-radius: 50%;
   }
   .phillip-massey,
   .smile-of-the {
@@ -209,6 +210,7 @@
     height: 150px;
     position: relative;
     object-fit: cover;
+    border-radius: 50%;
   }
   .best-little,
   .nannie-lawrence {
@@ -246,8 +248,11 @@
     width: 150px;
     height: 150px;
     position: relative;
-    object-fit: contain;
+    object-fit: cover;
+    border-radius: 50%;
   }
+
+
   .best-friend,
   .bruce-walters {
     align-self: stretch;
@@ -289,6 +294,7 @@
     height: 150px;
     position: relative;
     object-fit: cover;
+    border-radius: 50%;
   }
   .h-smiles,
   .henry-hughes {
