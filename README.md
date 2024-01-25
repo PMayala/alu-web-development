@@ -38,7 +38,7 @@ Throughout the module, you'll embark on exciting projects to apply your skills:
 
 - **Version Control with Git:** Learn the basics of Git to manage and track your project's changes.
 
-![alt text](https://github.com/PMayala/alu-web-development/blob/main/css_advanced/img/shallow-focus-shot-african-child-learning-school.jpg) to lighten the mood and keep those coding spirits high.
+![alt text](https://github.com/PMayala/alu-web-development/blob/main/css_advanced/img/shallow-focus-shot-african-child-learning-school.jpg) 
 
 ## How to Get Started
 
