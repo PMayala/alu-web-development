@@ -60,4 +60,4 @@ Thoroughly test across different browsers for cross-browser compatibility.
 
 ## Happy Coding!
 
-![Animated GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevrant.com%2Frants%2F820317%2Ftypical-tuesday-morning-got-word-that-a-client-was-having-trouble-viewing-a-mp4&psig=AOvVaw11ZIcEN_zfMck83E7zkhbj&ust=1706262750889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjIsrmi-IMDFQAAAAAdAAAAABAZ)
+![alt text](https://github.com/PMayala/alu-web-development/blob/main/css_advanced/img/shallow-focus-shot-african-child-learning-school.jpg)
