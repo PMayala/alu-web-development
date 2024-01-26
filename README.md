@@ -55,3 +55,8 @@ Throughout the module, you'll embark on exciting projects to apply your skills:
 ## Let's Build Something Amazing!
 
 Get ready for an exciting journey into the world of front-end web development. Let's create visually stunning and interactive web pages together! If you have any questions or need assistance, don't hesitate to reach out. Happy coding! 🚀🌐
+
+
+
+
+The (`css_advanced`) project [(`index.html`)](https://github.com/PMayala/alu-web-development/blob/main/css_advanced/index.html)

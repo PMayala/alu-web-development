@@ -6,7 +6,7 @@ Enhance the visual appeal and styling of the webpage using advanced CSS. Build u
 
 ## Figma Design
 
-[Figma - Project Design](Figma Link)
+[Figma - Project Design](https://www.figma.com/file/HhvUtnZ09KTwUuvYGVi6ot/Homepage-(Copy)?type=design&node-id=0-1&mode=design&t=B2GOadWbbokjw6Gc-0)
 
 ### Notes
 
@@ -45,7 +45,7 @@ Thoroughly test across different browsers for cross-browser compatibility.
 
 ## Repository Details
 
-- **GitHub Repository:** [alu-web-development](GitHub Repository Link)
+- **GitHub Repository:** [alu-web-development](https://github.com/PMayala/alu-web-development/tree/main)
 - **Directory:** css_advanced
 - **Files:** README.md, index.html
 
