@@ -6,7 +6,9 @@ from base_caching import BaseCaching
 
 
 class FIFOCache(BaseCaching):
-    """FIFO Cache: discards the first item inserted when the limit is reached."""
+    """
+    FIFO Cache: discards the first item inserted when the limit is reached.
+    """
 
     def __init__(self):
         """Initialize the cache."""
