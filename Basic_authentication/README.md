@@ -28,10 +28,3 @@
 #### 11. Basic - Overload current_user - and BOOM! --> [Basic auth file](./api/v1/auth/basic_auth.py)
 
 ---
-
-## Author
-#### Luz Sánchez Bolaños
-- Github: [zulsb](https://github.com/zulsb)
-- Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
-
-Cohort 10 | Cali, Colombia 2020.

@@ -24,10 +24,3 @@
 #### 8. Logout --> [Session Views file](./api/v1/views/session_auth.py) | [Session Auth file](./api/v1/auth/session_auth.py)
 
 ---
-
-## Author
-#### Luz Sánchez Bolaños
-- Github: [zulsb](https://github.com/zulsb)
-- Twitter: [@LuzSanchezB](https://twitter.com/LuzSanchezB)
-
-Cohort 10 | Cali, Colombia 2020.
